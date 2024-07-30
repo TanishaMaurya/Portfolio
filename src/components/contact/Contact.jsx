@@ -14,14 +14,14 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>12tanishamaurya@gmail.com</h5>
-            <a href="mailto:12tanishamaurya@gmail.com" target="_blank">Send a message</a>
+            <h6>sonypandikunta21@gmail.com</h6>
+            <a href="sonypandikunta21@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
             <FaLinkedin  className='contact__option-icon'/>
             <h4>Linkedin</h4>
             <h5>linkedin.com</h5>
-            <a href="https://www.linkedin.com/in/tanisha-maurya-5769a4231/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/sony-pandikunta-7b47782ba" target="_blank">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTION */}

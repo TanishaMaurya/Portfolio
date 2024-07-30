@@ -2,7 +2,6 @@ import React from "react";
 import "./about.css";
 import MeAbout from "../../assets/me-about.jpg";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 const About = () => {
@@ -21,8 +20,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              {/* <small>3+ Years Working</small> */}
+              <h5>Fresher</h5>
             </article>
             {/* <article className="about__card">
               <FiUsers className="about__icon" />
@@ -36,8 +34,8 @@ const About = () => {
             </article>
           </div>
           <p>
-              Hi, I'm Tanisha Maurya, currently in my penultimate year studying for my B.TECH at
-               KIET Group of Institutions in Ghaziabad.Outside of my academic and professional endeavors, I derive satisfaction from solving problems. Currently, I am immersing myself in the vast field of web development, covering both frontend and backend aspects. Being proactive and organized, I adeptly handle my responsibilities, utilizing tools such as Google Calendar and Microsoft TODO to ensure timely completion and high-quality outcomes        </p>
+              Hi, I'm Sony Pandikunta, currently in my penultimate year studying for my B.TECH at
+               Sri Krishnadevaraya University College of engineering and technology in Ananthapur.Outside of my academic and professional endeavors, I derive satisfaction from solving problems. Currently, I am immersing myself in the vast field of web development, covering both frontend and backend aspects. Being proactive and organized, I adeptly handle my responsibilities, utilizing tools such as Google Calendar and Microsoft TODO to ensure timely completion and high-quality outcomes        </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
