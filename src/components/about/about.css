@@ -20,7 +20,7 @@
 .about__me-image{
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    transform: rotate(0deg);
     transition: var(--transition);
 }
 
